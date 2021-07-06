@@ -8,9 +8,11 @@ Welcome to PyScale Udemy Course - Application of Software Development Principles
 
 .. toctree::
    :maxdepth: 2
+   :glob:
    :caption: Contents:
 
    readme_link
+   lectures/*
 
 
 Indices and tables
